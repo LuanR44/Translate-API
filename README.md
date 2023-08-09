@@ -17,7 +17,7 @@
 </div>
 
 ## 📝 Sobre:
-Este é um simples conversor de moedas que utiliza uma API para obter as taxas de câmbio.
+Este é um Tradutor que chama a API para fazer as traduções em qualquer idioma.
 
 ## 💾 Tecnologias e Ferramentas Utilizadas:
 <table>

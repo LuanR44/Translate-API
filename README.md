@@ -31,7 +31,7 @@ Este é um simples conversor de moedas que utiliza uma API para obter as taxas d
     <tr>
       <td style="font-weight: bold">API</td>
       <td>
-        <a href="https://mymemory.translated.net/doc/spec.php" target="_blank">MyMemory API</a>,
+        <a href="https://mymemory.translated.net/doc/spec.php" target="_blank">MyMemory API</a>.
       </td>
     </tr>
   </tbody>
